@@ -11,7 +11,7 @@ approach.
 If interested, I invite you to read the following post in
 my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/25/binary-search-iterative/
 
 Keep in mind that one of the best ways to learn is to read 
 and experiment. Remember that practice makes perfect.
